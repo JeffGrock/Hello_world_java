@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=JeffGrockowskiProject01
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ JeffGrockowskiProject01\ here.\r\n\r\n\ @author\ Jeff\ Grockowski\r\n\ @version\ 08/22/2019\r\n\ \r\n\ Question\ 6\:\ After\ compiling,\ i'm\ notified\ that\ there\ is\ a\ compiler\ error\ that\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ "Package\ system\ does\ not\ exist".\r\n\ Question\ 7\:\ Breaking\ the\ line\ of\ code\ after\ "Hello"\ causes\ a\ whole\ host\ of\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ syntax\ errors\ on\ both\ lines.\ These\ are\ pointed\ out\ to\ me\ my\ the\ compiler.\r\n\ Question\ 8\:\ The\ program\ compiles\ and\ runs\ without\ error,\ however,\ the\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ second\ sentence\ is\ printed\ on\ the\ same\ line\ as\ the\ first.\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
